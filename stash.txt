@@ -1,5 +1,3 @@
 GIT PULL
 
 git fetch
-
-git 2012

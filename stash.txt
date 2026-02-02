@@ -1,0 +1,3 @@
+GIT PULL
+
+git fetch
